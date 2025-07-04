@@ -34,11 +34,13 @@ logo:
   medium: logo-hhsk
   large: logo-hhsk
 
-# typography:
-#   fonts:
-#     - family: Ruda
-#       source: google
-#   base: Ruda
-#   headings: Ruda
-  # link:
-  #   color: oranje
+typography:
+  fonts:
+    - family: Ruda
+      source: google
+  # base: Ruda
+  headings: 
+    family: Ruda
+    color: donkerblauw
+  link:
+    color: oranje
