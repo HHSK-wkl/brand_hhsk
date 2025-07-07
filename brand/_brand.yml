@@ -1,3 +1,11 @@
+meta:
+  name:
+    full: Hoogheemraadschap van Schieland en de Krimpenerwaard
+    short: HHSK
+  link:
+    website: https://www.schielandendekrimpenerwaard.nl/
+    github: https://github.com/HHSK-wkl
+
 color:
   palette:
     blauw: "#0067C6"
@@ -19,17 +27,15 @@ color:
   primary: blauw
   secondary: lichtgrijs
   tertiary: oranje
-  
-  
 
 logo:
   images:
     logo-hhsk: 
-      path: "logo_kleur.png"
-      alt: "Logo Hoogheemraadschap van Schieland en de Krimpenerwaard"
+      path: logo_kleur.png
+      alt: "Logo van Hoogheemraadschap van Schieland en de Krimpenerwaard"
     logo-hhsk-wit: 
-      path: "logo_wit.png"
-      alt: "Logo Hoogheemraadschap van Schieland en de Krimpenerwaard in wit"
+      path: logo_wit.png
+      alt: "Logo van Hoogheemraadschap van Schieland en de Krimpenerwaard in wit"
   small: logo-hhsk
   medium: logo-hhsk
   large: logo-hhsk
@@ -38,9 +44,11 @@ typography:
   fonts:
     - family: Ruda
       source: google
+      weight: [600, 900]
   # base: Ruda
   headings: 
     family: Ruda
     color: donkerblauw
+    weight: 900
   link:
     color: oranje
