@@ -8,20 +8,21 @@ meta:
 
 color:
   palette:
-    blauw: "#0067C6"
-    groen: "#76B900"
-    oranje: "#F9651F"
+    blauw: "#0067C6" # 39%
+    groen: "#76B900" # 36%
+    oranje: "#F9651F" # 55%
+    grijs: "#636363" # 39%
     wit: "#FFFFFF"
-    donkerblauw: "#293173"
-    donkergroen: "#015F03"
+    donkerblauw: "#293173" # 31%
+    donkergroen: "#015F03" # 19%
     # donkergrijs: "#555555"
-    donkergrijs: "#222222" # Kijken of er een betere grijs te vinden is
+    donkergrijs: "#222222" # Kijken of er een betere grijs te vinden is 13%
     lichtoranje: "#FFBC80"
     lichtgroen: "#CBDF74"
     lichtblauw: "#8ED4DA"
     lichtgrijs: "#777777" # Kijken of er een betere grijs te vinden is
-    lichtergroen: "#EAf2C7"
-    lichterblauw: "#D1EDF0"
+    lichtergroen: "#E7F0C0" 
+    lichterblauw: "#D2EBEE"
   background: wit
   foreground: donkergrijs # main text color
   primary: blauw
