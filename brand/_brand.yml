@@ -21,6 +21,7 @@ color:
     lichtoranje: "#FFBC80"  # 75%
     lichtgrijs: "#B5B5B5"   # 71%
     lichterblauw: "#D2EBEE" # 88%
+    lichtergrijs: "#E0E0E0" # 88%
     lichtergroen: "#E7F0C0" # 85%
     tekstgrijs: "#222222"   # 13%
   background: wit
