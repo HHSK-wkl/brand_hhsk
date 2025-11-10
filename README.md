@@ -2,27 +2,17 @@
 
 ## Brand extension
 
-## Installing
-
+## Installeren
 
 ```bash
 quarto add HHSKwkl/brand_hhsk
 ```
 
-This will install the extension under the `_extensions` subdirectory.
-If you're using version control, you will want to check in this directory.
+Dit installeert de brand onder de `_extensions` directory. 
 
 ## Using
 
-This extension installs a [_brand.yml](https://posit-dev.github.io/brand-yml/). Voor correct gebruik moet er een _quarto.yml aanwezig zijn in de hoofdidrectory
-
-## Oud
-
-Brand met de nieuwe huisstijl van HHSK
-
-Het idee is dat deze een folder `brand` bevat die je kunt kopiëren naar je project.
-
-Een vervolgstap is dat deze ook opgenomen wordt in het package HHSKwkl
+Voor correct gebruik moet er een **_quarto.yml** aanwezig zijn in de hoofdidrectory
 
 
 ## Opmerkingen
