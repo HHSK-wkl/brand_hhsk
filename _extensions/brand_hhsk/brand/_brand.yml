@@ -40,8 +40,14 @@ logo:
     logo-hhsk: 
       path: logo_kleur.png
       alt: "Logo van Hoogheemraadschap van Schieland en de Krimpenerwaard"
+    logo-hhsk-mini: 
+      path: logo_kleur_48px.png
+      alt: "Logo van Hoogheemraadschap van Schieland en de Krimpenerwaard"
     logo-hhsk-wit: 
       path: logo_wit.png
+      alt: "Logo van Hoogheemraadschap van Schieland en de Krimpenerwaard in wit"
+    logo-hhsk-wit_mini: 
+      path: logo_wit_48px.png
       alt: "Logo van Hoogheemraadschap van Schieland en de Krimpenerwaard in wit"
   small: logo-hhsk
   medium: logo-hhsk
