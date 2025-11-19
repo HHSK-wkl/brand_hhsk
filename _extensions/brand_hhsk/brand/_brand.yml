@@ -49,6 +49,7 @@ logo:
     logo-hhsk-wit-small: 
       path: logo_wit_48px.png
       alt: "Logo van Hoogheemraadschap van Schieland en de Krimpenerwaard in wit"
+    favicon: "favicon.svg"
   small: 
     light: logo-hhsk-small
     dark:  logo-hhsk-wit-small
