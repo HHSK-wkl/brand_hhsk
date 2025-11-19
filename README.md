@@ -4,6 +4,13 @@
 
 ## Installeren
 
+In R
+```r
+quarto::quarto_add_extension("HHSK-wkl/brand_hhsk")
+```
+
+Of in de terminal
+
 ```bash
 quarto add HHSKwkl/brand_hhsk
 ```
