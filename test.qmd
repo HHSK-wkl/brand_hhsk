@@ -1,15 +1,18 @@
 ---
 title: "Untitled"
 format: html
+embed-resources: true
 # brand: "brand/_brand.yml"
 # logo: "_extensions/brand/brand/logo_kleur.png"
 ---
 
 ## Quarto
 
-**[TEST]{.oranje}**
+[**TEST**]{.oranje}
 
-Let er op dat er een _quarto.yml in de top-directory staat.
+Let er op dat er een \_quarto.yml in de top-directory staat.
+
+{{< brand logo logo-hhsk-small >}}
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
@@ -24,7 +27,12 @@ When you click the **Render** button a document will be generated that includes 
 You can add options to executable code like this
 
 ```{r}
-#| echo: false
+
+```
+
+
+
+```{#| echo: false}
 2 * 2
 ```
 
