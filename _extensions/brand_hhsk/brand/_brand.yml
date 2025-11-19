@@ -24,8 +24,13 @@ color:
     lichtergrijs: "#E0E0E0" # 88%
     lichtergroen: "#E7F0C0" # 85%
     tekstgrijs: "#222222"   # 13%
-  background: wit
-  foreground: tekstgrijs # main text color
+    achtergrondblauw: "#141838" # 15% #"#1b204b" 20%
+  foreground: 
+    light: tekstgrijs # main text color
+    dark: lichterblauw
+  background: 
+    light: wit
+    dark: achtergrondblauw
   primary: blauw
   secondary: lichtgrijs
   tertiary: oranje
@@ -50,7 +55,9 @@ typography:
   # base: Ruda
   headings: 
     family: Ruda
-    color: donkerblauw
+    color: 
+      light: donkerblauw
+      dark: lichtblauw
     weight: 900
   link:
     color: oranje

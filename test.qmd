@@ -2,12 +2,14 @@
 title: "Untitled"
 format: html
 # brand: "brand/_brand.yml"
-logo: logo-hhsk
+# logo: "_extensions/brand/brand/logo_kleur.png"
 ---
 
 ## Quarto
 
 **[TEST]{.oranje}**
+
+Let er op dat er een _quarto.yml in de top-directory staat.
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
