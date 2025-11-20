@@ -66,7 +66,9 @@ typography:
       dark: lichtblauw
     weight: 900
   link:
-    color: oranje
+    color: 
+      light: oranje
+      dark: lichtoranje
 
 defaults:
   bootstrap:
