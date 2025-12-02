@@ -103,3 +103,8 @@ defaults:
       .footnotes{
       font-size: 0.8em;
       }
+      
+      .quarto-figure .leaflet{
+      text-align: left;
+      }
+      
