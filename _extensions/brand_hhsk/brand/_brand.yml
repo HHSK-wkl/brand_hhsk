@@ -79,7 +79,9 @@ typography:
 
 defaults:
   bootstrap:
-    # defaults: <string>
+    defaults:
+      callout-color-note: $brand-groen
+    #  callout-color-tip: $brand-groen
     # uses: <string>
     # functions: <string>
     # mixins: <string>
