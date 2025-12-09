@@ -110,3 +110,7 @@ defaults:
       text-align: left;
       }
       
+      .navbar-title{
+      font-family: Ruda;
+      }
+      
