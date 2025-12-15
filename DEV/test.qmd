@@ -15,8 +15,6 @@ include-in-header:
 
 Let er op dat er een \_quarto.yml in de top-directory staat.
 
-
-
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 ## Running Code
@@ -29,11 +27,20 @@ When you click the **Render** button a document will be generated that includes 
 
 You can add options to executable code like this
 
-
-```{#| echo: false}
-2 * 2
-```
+`{#| echo: false} 2 * 2`
 
 The `echo: false` option disables the printing of code (only output is displayed).
 
 {{< brand logo logo-hhsk-small >}}
+
+Hier komt een voetnoot bij[^1]
+
+[^1]: Dit is de voetnoot.
+
+::: {.callout-note collapse="true"}
+## Informatie
+
+Callout
+
+Met een tekstje
+:::
