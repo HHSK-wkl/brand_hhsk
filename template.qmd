@@ -1,0 +1,27 @@
+---
+title: "template"
+format: html
+date: today
+toc: true
+---
+
+# Test
+
+{{< lipsum 1 >}}
+
+## Header 2
+
+```{r}
+#| file: "R/CODE_template.R"
+#| echo: true
+```
+
+
+## Nog een header 2
+
+{{< lipsum 1 >}}
+
+```{r}
+plot(pressure)
+```
+

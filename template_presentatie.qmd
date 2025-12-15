@@ -1,0 +1,39 @@
+---
+title: "Test presentatie met de rare g"
+author: Auteur
+date: today
+embed-resources: true
+format: 
+  revealjs: default
+  # html: # alternatieve uitvoer optie let op dubbeling bestandsnaam
+  #   output-file: template_presentatie_html.html 
+theme: "_extensions/HHSk-wkl/brand_hhsk/css/presentatie_hhsk.scss"
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+# Transitie slide
+
+:::{.r-fit-text}
+Section 3: 
+
+Summary statistics
+:::
+
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+plot(pressure)
+```

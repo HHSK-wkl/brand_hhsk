@@ -1,0 +1,57 @@
+---
+title: "Template dashboard met een g"
+subtitle: "Ondertitel"
+date: today
+# author: "HHSK - Naam"
+embed-resources: true
+format:
+  dashboard: 
+    logo: logo-hhsk-wit
+    fig-width: 9
+    fig-height: 5
+    fig-align: center
+---
+
+
+
+
+# Gewasbeschermingsmiddelen - tabellen
+
+## {.sidebar width=400px}
+
+### Toelichting 
+
+{{< meta subtitle >}}
+
+{{< lipsum 1 >}}
+
+
+## Tabellen {.tabset}
+
+### tab 1
+
+{{< placeholder >}}
+
+### tab 2
+
+{{< placeholder >}}
+
+### tab 3
+
+{{< placeholder >}}
+
+
+# Toelichting
+
+## 
+
+###
+
+::: {.card title="Werking dashboard"}
+Dit dashboard etc.
+:::
+
+::: {.card title="Meer info"}
+Meer info
+:::
+
