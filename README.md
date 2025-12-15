@@ -20,7 +20,7 @@ Dit installeert de brand onder de `_extensions` directory.
 
 In R. 
 
-NB  ij gebruik van de R-functie moet de map leeg zijn.
+NB  Bij gebruik van de R-functie moet de map leeg zijn.
 
 
 ```r
