@@ -80,7 +80,7 @@ typography:
 defaults:
   bootstrap:
     defaults:
-      callout-color-note: $brand-groen
+      callout-color-note: $brand-blauw
     #  callout-color-tip: $brand-groen
     # uses: <string>
     # functions: <string>
