@@ -7,7 +7,10 @@ format:
   revealjs: default
   # html: # alternatieve uitvoer optie let op dubbeling bestandsnaam
   #   output-file: template_presentatie_html.html 
-theme: "_extensions/HHSk-wkl/brand_hhsk/css/presentatie_hhsk.scss"
+theme: 
+  - "css/presentatie_hhsk.scss"
+  - brand
+
 ---
 
 ## Quarto
