@@ -2,6 +2,7 @@
 title: "template"
 format: html
 date: today
+embed-resources: true
 toc: true
 ---
 
