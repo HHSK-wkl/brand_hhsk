@@ -20,6 +20,11 @@ execute:
 knitr:
   opts_chunk:
     dev: "ragg_png"
+# knitr:
+#   opts_chunk:
+#     dev: "svglite"
+#     dev.args:
+#       web_fonts: Ruda
   
 lang: nl
 language: 
