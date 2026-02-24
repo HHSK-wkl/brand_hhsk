@@ -11,7 +11,7 @@ quarto::quarto_add_extension("HHSK-wkl/brand_hhsk")
 Of in de terminal
 
 ```bash
-quarto add HHSKwkl/brand_hhsk
+quarto add HHSK-wkl/brand_hhsk
 ```
 
 Dit installeert de brand onder de `_extensions` directory. 
@@ -30,7 +30,7 @@ quarto::quarto_use_template("HHSK-wkl/brand_hhsk")
 Of in de terminal
 
 ```bash
-quarto use template HHSKwkl/brand_hhsk
+quarto use template HHSK-wkl/brand_hhsk
 ```
 
 Dit download te template en installeert (optioneel) de brand onder de `_extensions` directory. 
