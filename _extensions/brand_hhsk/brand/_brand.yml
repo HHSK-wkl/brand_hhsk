@@ -79,16 +79,16 @@ logo:
 
 typography:
   fonts:
-    - family: Ruda
-      source: google
-      weight: [600, 900]
-  # base: Ruda
+    - family: Ruda-Black
+      source: file
+      files: 
+       - path: Ruda-Black.ttf
+   # base: Ruda
   headings: 
-    family: Ruda
+    family: Ruda-Black
     color: 
       light: donkerblauw
       dark:  lichtblauw
-    weight: 900
   link:
     color: 
       light: oranje
